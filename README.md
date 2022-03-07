@@ -1,5 +1,5 @@
 ### Hi there 👋
 
 * I'm an undergraduate student studying in Quantitative Finance 📈
-* Also interested in the mystery of Data Science 🕵️‍♂️
-* Trying to work on some projects to improve my analytics skills, hope you enjoy it!
+* Studying in statistics, working on software development
+* Trying to work on some projects to expand my skill-sets, hope you enjoy it!
