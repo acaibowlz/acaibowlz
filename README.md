@@ -30,11 +30,11 @@
 
 ### 👉 Check my site over [here](https://blogyourway.xyz/@hank), which is hosted on the blogging service I built!
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=hengtseChou)](https://git.io/streak-stats)
 
 <details>
 
-<summary>More</summary>
+<summary>More stats</summary>
 
 <div class='container'>
  <img height=200 align=top class="img" src="https://github-readme-stats.vercel.app/api?username=hengtseChou&show_icons=true&rank_icon=percentile" />
