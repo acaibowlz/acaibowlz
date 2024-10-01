@@ -9,11 +9,11 @@
 
 🌏 Based in Hsinchu/Taipei, Taiwan.
 
-💻 I am a grad student in statistics, with handful of experience with data analysis/modelling/finetuning.
+💻 I am a grad student in statistics, with handful of experience with data analysis/modelling/finetuning,.
 
 🕶️ Clean code practitioners.
 
-🐧 I am also a Linux enthusiastic. EndeavourOS rocks!
+🐧 Love playing around with Linux apps!
 
 ### 👉 I write code in 
 
