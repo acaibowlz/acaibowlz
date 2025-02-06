@@ -28,7 +28,7 @@
 <span><img alt="Rust" src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"></span>
 <span><img alt="Golang" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"></span>
 
-### 👉 Check my site over [here](https://blogyourway.xyz/@hank), which is hosted on the blogging service I built!
+### 👉 Check my site over [here](https://whoosh.blog/@hank), which is hosted on the blogging service I built!
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=hengtseChou)](https://git.io/streak-stats)
 
