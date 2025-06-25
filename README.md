@@ -6,3 +6,6 @@
 - _(mutters) I use Arch btw..._
 
 👉️ [My Website](https://whoosh.blog/@hank), which is hosted on the blogging service that I built!
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
