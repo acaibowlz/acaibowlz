@@ -9,7 +9,7 @@
 
 ---
 
-### 💻 Weekly (after-hour) dev time breakdown
+### 💻 Weekly (after-hour) dev times
 
 <!--START_SECTION:waka-->
 
