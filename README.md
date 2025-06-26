@@ -7,9 +7,9 @@
 
 👉️ [My Website](https://whoosh.blog/@hank), which is hosted on the blogging service that I built!
 
-```
-💻 Dev time metric
-```
+---
+
+### Weekly (after-hour) dev time breakdown
 
 <!--START_SECTION:waka-->
 
