@@ -14,11 +14,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 May 2025 - To: 24 June 2025
+Total Time: 1 hr 11 mins
 
-Total Time: 0 secs
-
-No activity tracked
+TOML       33 mins         ███████████▓░░░░░░░░░░░░░   46.95 %
+YAML       32 mins         ███████████▒░░░░░░░░░░░░░   45.93 %
+Markdown   3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
+Python     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
 ```
 
 <!--END_SECTION:waka-->
