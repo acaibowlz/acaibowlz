@@ -1,4 +1,4 @@
-name: Waka README
+name: Wakatime
 
 on:
   # for manual workflow trigger
@@ -9,13 +9,12 @@ on:
 
 jobs:
   update-readme:
-    name: WakaREADME
+    name: Update waka-readme section
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master # do NOT replace with anything else
+      - uses: athul/waka-readme@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
-          ### content
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           BLOCKS: ░▒▓█
           TIME_RANGE: last_7_days
           LANG_COUNT: 5
