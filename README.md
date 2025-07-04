@@ -14,13 +14,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 7 hrs 20 mins
+Total Time: 6 hrs
 
-Python         4 hrs 54 mins   ████████████████▓░░░░░░░░   66.73 %
-JavaScript     1 hr 12 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.51 %
-TOML           24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 %
-JSON           12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
-Ezhil          10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
+Python         4 hrs 7 mins    █████████████████░░░░░░░░   68.53 %
+JavaScript     1 hr 12 mins    █████░░░░░░░░░░░░░░░░░░░░   20.17 %
+TOML           10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
+JSON           9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
+shell script   7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
 ```
 
 <!--END_SECTION:waka-->
