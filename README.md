@@ -14,13 +14,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 4 hrs 2 mins
+Total Time: 2 hrs 37 mins
 
-Python         3 hrs 33 mins   ██████████████████████░░░   87.85 %
-Markdown       15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
-TSQL           6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
-Bash           4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
-TOML           3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
+Python         2 hrs 31 mins   ████████████████████████░   96.28 %
+Bash           4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
+TOML           1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+shell script   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
