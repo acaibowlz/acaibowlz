@@ -14,12 +14,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 2 hrs 37 mins
+Total Time: 0 secs
 
-Python         2 hrs 31 mins   ████████████████████████░   96.28 %
-Bash           4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
-TOML           1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
-shell script   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
