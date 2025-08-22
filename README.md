@@ -14,13 +14,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 2 hrs 51 mins
+Total Time: 4 hrs 39 mins
 
-Python         1 hr 51 mins    ████████████████▒░░░░░░░░   65.29 %
-TOML           26 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.38 %
-Bash           12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.18 %
-shell script   9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
-CSS            7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
+Python         3 hrs 28 mins   ██████████████████▓░░░░░░   74.63 %
+TOML           28 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.18 %
+Bash           12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
+Ezhil          10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
+shell script   9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
 ```
 
 <!--END_SECTION:waka-->
