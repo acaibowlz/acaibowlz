@@ -14,13 +14,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 6 mins
+Total Time: 1 hr 15 mins
 
-jsonc          17 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.49 %
-Markdown       15 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.30 %
-Bash           14 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.93 %
-shell script   10 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.36 %
-Python         6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.88 %
+jsonc          21 mins         ███████░░░░░░░░░░░░░░░░░░   28.34 %
+Markdown       15 mins         █████░░░░░░░░░░░░░░░░░░░░   20.61 %
+Bash           14 mins         █████░░░░░░░░░░░░░░░░░░░░   19.40 %
+shell script   12 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.10 %
+Python         6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.74 %
 ```
 
 <!--END_SECTION:waka-->
