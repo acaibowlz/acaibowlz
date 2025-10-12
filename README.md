@@ -14,12 +14,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 58 mins
+Total Time: 56 mins
 
-JSON           24 mins         ██████████▓░░░░░░░░░░░░░░   42.22 %
-shell script   19 mins         ████████▒░░░░░░░░░░░░░░░░   33.61 %
-Bash           11 mins         █████░░░░░░░░░░░░░░░░░░░░   20.20 %
-jsonc          2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
+JSON           24 mins         ███████████░░░░░░░░░░░░░░   43.90 %
+shell script   17 mins         ███████▓░░░░░░░░░░░░░░░░░   31.08 %
+Bash           11 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.89 %
+jsonc          2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
 ```
 
 <!--END_SECTION:waka-->
