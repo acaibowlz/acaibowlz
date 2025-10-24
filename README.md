@@ -14,12 +14,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 24 mins
+Total Time: 0 secs
 
-jsonc          13 mins         ██████████████░░░░░░░░░░░   55.86 %
-Python         5 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.98 %
-Markdown       5 mins          █████░░░░░░░░░░░░░░░░░░░░   20.47 %
-shell script   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
