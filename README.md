@@ -4,4 +4,4 @@
 - Enjoy building small tools to solve my own problems in my free time
 - _(mutters) I use Arch btw..._
 
-👉️ [My Website](https://whoosh.up.railway.app/@hank), which is hosted on the blogging service that I built!
+👉️ [My Website](https://acaibowlz.github.io/), powered by my own agentic SSG!
